@@ -1,5 +1,6 @@
 {
     "name": "gonssal/laravel-subdomain-localization",
+    "version": "6.0",
     "description": "Subdomain localization support for Laravel",
     "keywords": ["subdomain", "localization", "laravel", "php"],
     "homepage": "https://github.com/hoyvoy/laravel-subdomain-localization",
