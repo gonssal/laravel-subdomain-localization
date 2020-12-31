@@ -1,5 +1,5 @@
 {
-    "name": "hoyvoy/laravel-subdomain-localization",
+    "name": "gonssal/laravel-subdomain-localization",
     "description": "Subdomain localization support for Laravel",
     "keywords": ["subdomain", "localization", "laravel", "php"],
     "homepage": "https://github.com/hoyvoy/laravel-subdomain-localization",
